@@ -9,7 +9,7 @@
     </div>
     <hr class="border-gray-700" />
     <div class="flex gap-x-7">
-      <img width="176" src="/img/chart.svg" alt="" />
+      <img width="176" src="img/chart.svg" alt="" />
       <div class="flex flex-col gap-y-4">
         <div class="flex gap-x-2 items-start">
           <div class="w-4 h-4 mt-0.5 rounded-full bg-accent-red" />
